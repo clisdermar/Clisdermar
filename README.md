@@ -1,6 +1,7 @@
 
 💫 Acerca de mí:
-Soy una innovadora de desarrollo de software completo e Ingeniero en Informatica con la capacidad de combinar mi creatividad con habilidades técnicas para crear soluciones innovadoras que impacten el mundo
+
+Soy una innovadora de desarrollo de software completo e Ingeniero en Informatica con la capacidad de combinar mi creatividad con habilidades técnicas para crear soluciones innovadoras y eficientes a través de la programación, y siempre estoy buscando nuevos retos y oportunidades para aprender y crecer en mi campo. 
 
 
 🌐 Redes sociales:
