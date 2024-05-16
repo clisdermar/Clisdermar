@@ -18,13 +18,3 @@ Soy una innovadora de desarrollo de software completo e Ingeniero en Informatica
 ---
 [![](https://visitcount.itsvg.in/api?id=Clisdermar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Clisdermar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-✍️ Cita aleatoria de desarrollo
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=Clisdermar&icon=0&color=0)](https://visitcount.itsvg.in)
