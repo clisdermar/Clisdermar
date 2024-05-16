@@ -1,4 +1,3 @@
-ClisdermarVivas/ LEEME.md
 
 # 💫 About Me:
 Soy una innovadora de desarrollo de software completo e Ingeniero en Informatica con la capacidad de combinar mi creatividad con habilidades técnicas para crear soluciones innovadoras que impacten el mundo
